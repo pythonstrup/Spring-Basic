@@ -1,0 +1,11 @@
+package com.bigbell.springdemo;
+
+public class GoodFortuneService implements FortuneService {
+
+	@Override
+	public String getFortune() {
+		
+		return "You can do it! cheer up!";
+	}
+
+}
