@@ -1,3 +1,7 @@
 /lib
 
 *.jar
+
+/.metadata
+
+.metadata
